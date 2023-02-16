@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.task1{
+  text-align: center;
+}
+.pad{
+  margin: 10%;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-gap: 10px;
+  color:black;
+}
+
+.box {
+  color:black;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 100%;
+}
